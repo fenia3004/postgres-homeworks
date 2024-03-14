@@ -6,7 +6,7 @@ conn_params = {
     "host": "localhost",
     "database": "north",
     "user": "postgres",
-    "password": "5015734"
+    "password": "3004"
 }
 
 with psycopg2.connect(**conn_params) as conn:
